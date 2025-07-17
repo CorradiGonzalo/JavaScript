@@ -1,6 +1,6 @@
 ¿Que quiero crear?
 Opciones:
     1- Pagina de E-Commerce
-    2- Pagina para archivos de impresion 3D con foro.
-    3- Turnero
-    4- Pagina WEB de Antares
+    2- Pagina para archivos de impresion 3D con foro. (Elegido me parece)
+    3- Turnero digital
+    4- ¿Pagina WEB de Antares?
